@@ -1,5 +1,4 @@
 .img-teaser{
-    padding: 24px;
     width: 100%;
 }
 
@@ -12,4 +11,8 @@
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
+}
+
+.m-xs{
+    margin: 4px;
 }
